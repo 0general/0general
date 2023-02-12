@@ -77,7 +77,7 @@
 ---
   
 - 🌱 I’m currently learning DL/ML.
-- 📫 How to reach me: email(0general@naver.com) & [openkakaotalk](https://open.kakao.com/o/sRmtCuKd)
+- 📫 How to reach me: email(0general@naver.com) & [openkakaotalk](https://open.kakao.com/o/sw4tda4e)
   
 <br></br>
 
